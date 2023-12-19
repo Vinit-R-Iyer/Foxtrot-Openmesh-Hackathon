@@ -14,6 +14,8 @@ function App() {
       <label htmlFor="query-input">Query Input</label>
       <textarea name="queryInput" id="query-input" cols={30} rows={10} onChange={(e) => handleChange(e)}></textarea>
       </div> 
+
+      <div><button>Send query</button></div>
     </>
   )
 }
