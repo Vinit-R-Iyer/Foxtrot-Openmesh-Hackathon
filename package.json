@@ -1,0 +1,24 @@
+{
+  "name": "foxtrot-openmesh-hackathon",
+  "version": "1.0.0",
+  "description": "This Repository is a shared repository for the Hackathon Challenge 01 of Openmesh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinit-R-Iyer/Foxtrot-Openmesh-Hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinit-R-Iyer/Foxtrot-Openmesh-Hackathon/issues"
+  },
+  "homepage": "https://github.com/Vinit-R-Iyer/Foxtrot-Openmesh-Hackathon#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.2"
+  }
+}
