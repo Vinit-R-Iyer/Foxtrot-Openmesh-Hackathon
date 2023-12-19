@@ -4,7 +4,8 @@
   "description": "This Repository is a shared repository for the Hackathon Challenge 01 of Openmesh.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/Vinit-R-Iyer/Foxtrot-Openmesh-Hackathon#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
-    "hardhat": "^2.19.2"
+    "hardhat": "^2.19.2",
+    "prettier": "^3.1.1"
   }
 }
